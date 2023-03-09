@@ -13,6 +13,7 @@ namespace task5
 			Console.WriteLine(d);
 			var k = new Konus(3, 5);
 			Console.WriteLine(k);
+			Console.WriteLine("salam");
 
 		}
 	}
